@@ -1,0 +1,6 @@
+Langchain is a framework for building application with llms
+Langchain provides modular abstractions to combine LLMs with tools like OpenAI, Groq, Huggingface, etc
+You can create chains,agents,tools,flows,etc
+the eiffel tower is a tower
+the eiffel tower is in Paris
+France is a popular tourist destination.

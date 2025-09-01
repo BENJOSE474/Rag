@@ -1,0 +1,29 @@
+{
+    "company": "TechCorp", 
+    "employees": [
+        {
+            "id": 1, 
+            "name": "Alice", 
+            "department": "Engineering", 
+            "skills": ["Python", "C++", "Machine Learning"], 
+            "address": {"city": "New York", "zip": "10001"}
+        }, 
+        {
+            "id": 2, 
+            "name": "Bob", 
+            "department": "Marketing", 
+            "skills": ["SEO", "Content Writing", "Social Media"], 
+            "address": {"city": "Los Angeles", "zip": "90001"}
+        }
+    ], 
+    "projects": {
+        "AI": {
+            "budget": 500000, 
+            "deadline": "2025-12-31"
+        }, 
+        "WebApp": {
+            "budget": 200000, 
+            "deadline": "2025-06-30"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "store": "ShopEZ",
+    "orders": [
+        {
+            "order_id": "ORD1001",
+            "customer": {
+                "id": "C001",
+                "name": "John Doe",
+                "email": "john@example.com"
+            },
+            "items": [
+                {
+                    "product": "Laptop",
+                    "price": 1200,
+                    "quantity": 1
+                },
+                {
+                    "product": "Mouse",
+                    "price": 25,
+                    "quantity": 2
+                }
+            ],
+            "total": 1250,
+            "status": "Shipped"
+        },
+        {
+            "order_id": "ORD1002",
+            "customer": {
+                "id": "C002",
+                "name": "Jane Smith",
+                "email": "jane@example.com"
+            },
+            "items": [
+                {
+                    "product": "Phone",
+                    "price": 800,
+                    "quantity": 1
+                },
+                {
+                    "product": "Headphones",
+                    "price": 100,
+                    "quantity": 1
+                }
+            ],
+            "total": 900,
+            "status": "Processing"
+        }
+    ]
+}
